@@ -70,7 +70,8 @@ nav .toggle_btn {
     top: 4.2rem;
     height: 0;
     width: 11rem;
-    background: rgba(107, 104, 104, 0.1);
+    background: rgb(203,230,132);
+background: radial-gradient(circle, rgba(203,230,132,0.8632703081232493) 0%, rgba(148,233,155,1) 100%);
     backdrop-filter: blur(15px);
     border-radius: 0.75rem;
     overflow: hidden;
@@ -88,7 +89,8 @@ nav .toggle_btn {
 
 .dropdown_menu li a{
     text-decoration: none;
-    color: black;
+    font-weight: 600;
+    color: rgb(11, 62, 12);
     padding: 0.35rem;
     display: flex;
     align-items: center;
