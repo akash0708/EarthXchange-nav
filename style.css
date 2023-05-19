@@ -70,7 +70,7 @@ nav .toggle_btn {
     top: 4.2rem;
     height: 0;
     width: 11rem;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(107, 104, 104, 0.1);
     backdrop-filter: blur(15px);
     border-radius: 0.75rem;
     overflow: hidden;
@@ -88,7 +88,7 @@ nav .toggle_btn {
 
 .dropdown_menu li a{
     text-decoration: none;
-    color: white;
+    color: black;
     padding: 0.35rem;
     display: flex;
     align-items: center;
